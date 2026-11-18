@@ -22,5 +22,5 @@ I architect and build production-grade **Agentic AI ecosystems**, **LLM inferenc
 ---
 
 #### 📫 Connect
-* **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
+* **LinkedIn:** [https://www.linkedin.com/in/christianaxelschmidt](https://www.linkedin.com/in/christianaxelschmidt/)
 * **Location:** Madrid, Spain — *Open to Remote Opportunities (EMEA / Global)*
